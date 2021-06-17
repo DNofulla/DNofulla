@@ -1,6 +1,6 @@
 ### Welcome to my Page! 👋
 ![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DNofulla&count_private=true)
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=10)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=11)
 
 ✏️ I’m currently working on ...
   - My Personal Portfolio Website (ReactJS)
