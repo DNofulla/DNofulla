@@ -12,3 +12,4 @@
   - Docker (Advanced)
   - Kubernetes (Beginner)
   - Microservices (Beginner)
+  - GraphQL (Intermediate)
