@@ -7,6 +7,7 @@
   - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
   - A Mobile Social Media Android App with its own REST API with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile?)
   - Building my Youtube Channel (Will have a link to it when I post my first few videos!)
+  - Applying to Jobs and Internships for the Summer, Fall, Spring and for after Graduation in Spring 2022!
 
 📚 I’m currently learning ... 
   - React Native (Advanced)
