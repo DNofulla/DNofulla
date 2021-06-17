@@ -5,7 +5,7 @@
 ✏️ I’m currently working on ...
   - My Personal Portfolio Website (ReactJS)
   - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
-  - A Mobile Android App with its own REST API (React Native, ExpressJS and NodeJS)
+  - A Mobile Social Media Android App with its own REST API with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile?) 
 
 📚 I’m currently learning ... 
   - React Native (Advanced)
