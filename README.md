@@ -19,6 +19,6 @@
 
 📆 Future Plans...
   - Join the Major League Hacking (MLH) INIT Hackathon (June 27th to July 4th)
-  - Get Better at/Master Tensorflow (Machine Learning)
-  - Get Better at/Master Pytorch (Machine Learning)
+  - Get Better at/Master Tensorflow (Machine Learning Framework)
+  - Get Better at/Master Pytorch (Machine Learning Framework)
   - Build an Advanced Machine Learning Model like ComplEx or GAT
