@@ -5,6 +5,7 @@
 🔭 I’m currently working on ...
   - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
   - A Mobile Android App with its own REST API (React Native, ExpressJS and NodeJS) 
+
 🌱 I’m currently learning ... 
   - React Native (Advanced)
   - Docker (Advanced)
