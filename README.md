@@ -24,3 +24,8 @@
   - Build an Advanced Machine Learning Model like ComplEx or GAT
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DNofulla&repo=Battleship-Game)](https://github.com/DNofulla/Battleship-Game)
