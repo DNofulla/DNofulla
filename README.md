@@ -22,3 +22,5 @@
   - Get Better at/Master Tensorflow (Machine Learning Framework)
   - Get Better at/Master Pytorch (Machine Learning Framework)
   - Build an Advanced Machine Learning Model like ComplEx or GAT
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
