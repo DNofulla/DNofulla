@@ -17,7 +17,7 @@
   - Microservices (Beginner)
   - GraphQL (Intermediate)
 
-📆 Future Plans...
+📆 Future Learning...
   - Join the Major League Hacking (MLH) INIT Hackathon (June 27th to July 4th)
   - Get Better at/Master Tensorflow (Machine Learning Framework)
   - Get Better at/Master Pytorch (Machine Learning Framework)
