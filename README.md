@@ -5,7 +5,7 @@
 ✏️ I’m currently working on...
   - the Major League Hacking (MLH) INIT Hackathon (June 27th to July 4th)
   - My Personal Portfolio Website (ReactJS)
-  - TeleSwan - My own Mobile Social Media Android App with a REST API built with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile) (Currently Under Development - Private)
+  - TeleSwan - My own Mobile Social Media Android App with a REST API built with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile) (Currently Under Development)
   - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
   - Applying to Jobs and Internships!
 
