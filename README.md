@@ -3,6 +3,7 @@
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=10&theme=algolia&border_color=5ECF76)
 
 ✏️ I’m currently working on...
+  - the Major League Hacking (MLH) INIT Hackathon (June 27th to July 4th)
   - My Personal Portfolio Website (ReactJS)
   - TeleSwan - My own Mobile Social Media Android App with a REST API built with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile) (Currently Under Development - Private)
   - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
@@ -16,7 +17,6 @@
   - GraphQL (Intermediate)
 
 📆 Future Learning...
-  - Join the Major League Hacking (MLH) INIT Hackathon (June 27th to July 4th)
   - Get Better at/Master Tensorflow (Machine Learning Framework)
   - Get Better at/Master Pytorch (Machine Learning Framework)
   - Build an Advanced Machine Learning Model like ComplEx or GAT from scratch
