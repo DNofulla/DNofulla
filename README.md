@@ -15,6 +15,7 @@
   - Kubernetes (Beginner)
   - Microservices (Beginner)
   - GraphQL (Intermediate)
+  - Blockchain (Beginner)
 
 📆 Future Learning...
   - Get Better at/Master Tensorflow (Machine Learning Framework)
