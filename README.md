@@ -16,6 +16,7 @@
   - Microservices (Beginner)
   - GraphQL (Intermediate)
   - Blockchain (Beginner)
+  - NextJS (Beginner)
 
 📆 Future Learning...
   - Get Better at/Master Tensorflow (Machine Learning Framework)
