@@ -10,7 +10,7 @@
 
 📚 I’m currently learning... 
   - React Native (Advanced)
-  - Docker (Advanced)
+  - Firebase (Beginner)
   - Kubernetes (Beginner)
   - Microservices (Beginner)
   - GraphQL (Intermediate)
