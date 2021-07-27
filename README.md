@@ -5,7 +5,7 @@
 ✏️ I’m currently working on...
   - My Personal Portfolio Website
   - TeleSwan - My own Mobile Social Media Android App with a REST API built with MongoDB, ExpressJS, React Native and NodeJS (MERN Mobile) (Currently Under Development)
-  - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack) 
+  - A Planner Web Application with MongoDB, ExpressJS, ReactJS and NodeJS, and all with TypeScript (MERN Stack) 
   - Applying to Jobs and Internships!
 
 📚 I’m currently learning... 
