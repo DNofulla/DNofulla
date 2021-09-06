@@ -5,7 +5,7 @@
 ✏️ I’m currently working on...
   - My Personal Portfolio Website (70% Done)
   - Applying to Jobs and Internships!
-  - TeleSwan -> A Mobile Full Stack Application built with MongoDB, Express, React Native and Node, and JavaScript (MERN Mobile JavaScript Stack)
+  - A Social Media (TeleSwan) Mobile Full Stack Application built with MongoDB, Express, React Native and Node, and JavaScript (MERN Mobile JavaScript Stack)
   - A Fitness Web and Mobile Full Stack Application with MongoDB, Express, React and Node, and JavaScript (MERN & MERN Mobile JavaScript Stack)
   - A Planner Web and Mobile Full Stack Application with MongoDB, Express, ReactJS and Node, and TypeScript (MERN & MERN Mobile TypeScript Stack) 
 
