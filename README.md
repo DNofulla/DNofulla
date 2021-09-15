@@ -8,7 +8,3 @@
   - A Social Media (TeleSwan) Mobile Full Stack Application built with MongoDB, Express, React Native and Node, and JavaScript (MERN Mobile JavaScript Stack)
   - A Fitness Web and Mobile Full Stack Application with MongoDB, Express, React and Node, and JavaScript (MERN & MERN Mobile JavaScript Stack)
   - A Planner Web and Mobile Full Stack Application with MongoDB, Express, ReactJS and Node, and TypeScript (MERN & MERN Mobile TypeScript Stack) 
-
-📚 I’m currently learning...
-  - Nothing! I am done learning and I am trying to put my skills to use and create projects!
-  - I will learn more after I am done with the projects above!
