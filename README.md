@@ -3,7 +3,7 @@
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=10&theme=algolia&border_color=5ECF76&hide=HTML)
 
 ✏️ I’m currently working on...
-  - My Personal Portfolio Website (70% Done)
+  - My Personal Portfolio Website (90% Done)
   - Applying to Jobs and Internships!
   - A Social Media (TeleSwan) Mobile Full Stack Application built with MongoDB, Express, React Native and Node, and JavaScript (MERN Mobile JavaScript Stack)
   - A Fitness Web and Mobile Full Stack Application with MongoDB, Express, React and Node, and JavaScript (MERN & MERN Mobile JavaScript Stack)
