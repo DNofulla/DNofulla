@@ -7,4 +7,6 @@
   - A Social Media Web and Mobile Full Stack Application (TeleSwan Social Media) built with MongoDB, Express, React Native and Node, and JavaScript (MERN & MERN Mobile JavaScript Stack) (Is being developed right now)
   - A Planner Web and Mobile Full Stack Application (DNote Planner) with MongoDB, Express, ReactJS and Node, and TypeScript (MERN & MERN Mobile TypeScript Stack) (Will be developed after TeleSwan Social Media)
   - A Fitness Web and Mobile Full Stack Application (DN Fitness Tracker) with React, NestJS & MongoDB, and TypeScript (Will be developed after DNote Planner)
+
+Update: Job Interview Preparation put on pause due to Final Exams
   
