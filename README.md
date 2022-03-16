@@ -9,7 +9,7 @@ I am a soon to graduate senior Computer Science student at SUNY Albany minoring 
 - 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/dnofulla/">Linkedin</a>!
 - ⚡ Fun facts: 
   - Nofulla means fangs in Albanian. 
-  - I speak 7 languages! Albanian, Greek, Ancient Greek, English, German, French and Japanese! 
+  - I speak 7 languages! Albanian ![image](https://user-images.githubusercontent.com/35430717/158523332-37d151b8-8287-4744-a212-72bf820b8ebe.png), Greek, Ancient Greek, English, German, French and Japanese! 
 - 👯 I’m looking for a Software Engineering Internship or a Full-time Software Engineering opportunity!
 
 <p align="center">
