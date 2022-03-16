@@ -41,6 +41,7 @@ I am a soon to graduate senior Computer Science student at SUNY Albany! I am pur
 ![Docker](https://img.shields.io/badge/-Docker-0077B5?style=for-the-badge&logo=Docker&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 
 ### Operating Systems
