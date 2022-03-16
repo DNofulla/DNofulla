@@ -7,8 +7,8 @@ I am a senior Computer Science student at SUNY Albany! I am pursuing a Bachelor 
 - 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
 - 🌱 I’m currently trying to master React and Node.js, and also trying to learn native mobile development with Android and Java!
 - 📫 How to reach me: 
-  - <a href="https://www.linkedin.com/in/dnofulla/">LinkedIn!</a>
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
+  - <a href="https://www.linkedin.com/in/dnofulla/">LinkedIn!</a>
   - <a href="https://www.dnofulla.me/">Personal Website</a>
 - ⚡ Fun facts: 
   - Nofulla means "fang(s)" in Albanian. 
