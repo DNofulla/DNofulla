@@ -36,6 +36,7 @@ I am a soon to graduate senior Computer Science student at SUNY Albany! I am pur
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-FF5722?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0077B5?style=for-the-badge&logo=Docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
 
