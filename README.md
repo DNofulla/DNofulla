@@ -27,7 +27,7 @@ I am a soon to graduate senior Computer Science student at SUNY Albany! I am pur
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-100000?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FF5722?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-0077B5?style=for-the-badge&logo=Docker&logoColor=white)
 
 
