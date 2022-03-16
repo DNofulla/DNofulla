@@ -11,7 +11,7 @@ I am a senior Computer Science student at SUNY Albany! I am pursuing a Bachelor 
   - <a href="https://www.linkedin.com/in/dnofulla/">LinkedIn!</a>
   - <a href="https://www.dnofulla.me/">Personal Website</a>
 - ⚡ Fun facts: 
-  - Nofulla means "fang(s)" in Albanian.
+  - Nofulla means "fangs" in Albanian!
   - I speak 6 languages! Albanian <img src="https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg" width="20px" />, Greek <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/640px-Flag_of_Greece.svg.png" width="20px" />, English <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" width="20px" />, German <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="20px" />, French <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" width="20px" /> and Japanese <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png" width="20px" />! 
 - 👯 I’m looking for a Software Engineering Internship or a Full-time Software Engineering opportunity!
 
