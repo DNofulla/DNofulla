@@ -1,6 +1,6 @@
 <h3 align="center">Hello there! Welcome to my Page! 👋</h3>
 
-### I'm <a href="https://www.dnofulla.me/">Daniel</a> 🌝
+### I'm <a href="https://www.dnofulla.me/">Daniel</a> 😄
 
 I am a soon to graduate senior Computer Science student at SUNY Albany minoring Mathematics pursuing a Bachelor of Science in Computer Science & Applied Mathematics. I am an aspiring Full Stack Software Engineer! I always love learning new things!
 
