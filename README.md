@@ -24,7 +24,7 @@ I am a soon to graduate senior Computer Science student at SUNY Albany! I am pur
 
 
 ### Technologies
-![React.js](https://img.shields.io/badge/-React-fff?&logo=React&logoColor=007396)
+![ReactJS](https://img.shields.io/badge/-React-fff?&logo=React&logoColor=007396)
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
