@@ -1,4 +1,16 @@
-<h3 align="center">Welcome to my Page! 👋</h3>
+<h3 align="center">Hello there! Welcome to my Page! 👋</h3>
+
+### I'm <a href="https://www.dnofulla.me/">Daniel</a> 🌝
+
+I am a soon to graduate senior Computer Science student at SUNY Albany minoring Mathematics pursuing a Bachelor of Science in Computer Science & Applied Mathematics. I am an aspiring Full Stack Software Engineer! I always love learning new things!
+
+- 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
+- 🌱 I’m currently trying to master React and Node.js, and also trying to learn native mobile development with Android and Java!
+- 📫 How to reach me: You can reach me at my <a href="https://www.linkedin.com/in/dnofulla/">Linkedin</a>!
+- ⚡ Fun facts: 
+  - Nofulla means fangs in Albanian. 
+  - I speak 7 languages! Albanian, Greek, Ancient Greek, English, German, French and Japanese! 
+- 👯 I’m looking for a Software Engineering Internship or a Full-time Software Engineering opportunity!
 
 <p align="center">
 <a href="https://github.com/dnofulla">
