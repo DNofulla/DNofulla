@@ -4,8 +4,6 @@
 
 I am a senior Computer Science student at SUNY Albany! I am pursuing a Bachelor of Science in Computer Science & Applied Mathematics and I graduate in Spring of 2022. I am an aspiring Full Stack Software Engineer! I always love learning new things!
 
-- 🏫 I am currently studying at <a href="https://www.albany.edu/">SUNY at Albany</a>.
-- 🌱 I’m currently trying to master React and Node.js, and also trying to learn native mobile development with Android and Java!
 - 📫 How to reach me: 
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
 - ⚡ Fun facts: 
