@@ -1,6 +1,6 @@
 <h3 align="center">Hello there! Welcome to my Page! 👋</h3>
 
-### I'm <a href="https://www.dnofulla.me/">Daniel Nofulla</a> 😄
+### I'm Daniel Nofulla 😄
 
 I am a senior Computer Science student at SUNY Albany! I am pursuing a Bachelor of Science in Computer Science & Applied Mathematics and I graduate in Spring of 2022. I am an aspiring Full Stack Software Engineer! I always love learning new things!
 
