@@ -2,7 +2,7 @@
 
 ### I'm Daniel Nofulla 😄
 
-I am a senior Computer Science student at SUNY Albany! I am pursuing a Bachelor of Science in Computer Science & Applied Mathematics and I graduate in Spring of 2022. I am an aspiring Full Stack Software Engineer! I always love learning new things!
+I am a recent Computer Science graduate from at SUNY Albany! I received a Bachelor of Science in Computer Science & Applied Mathematics!
 
 - 📫 How to reach me: 
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
