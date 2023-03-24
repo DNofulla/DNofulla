@@ -2,8 +2,6 @@
 
 ### I'm Daniel Nofulla 😄
 
-I am a recent Computer Science graduate from at SUNY Albany! I received a Bachelor of Science in Computer Science & Applied Mathematics!
-
 - 📫 How to reach me: 
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
 - ⚡ Fun facts: 
