@@ -11,8 +11,8 @@
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" width="20px" /> English (Fluent / Native Proficiency)
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width="20px" /> German (Intermediate)
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" width="20px" /> French (Intermediate)
-    - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png" width="20px" /> Japanese (Intermediate)
-    - <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" width="20px" /> Korean (Beginner)
+    - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png" width="20px" /> Japanese (Beginner II)
+    - <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" width="20px" /> Korean (Beginner I)
 
 ### Languages
 
