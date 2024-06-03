@@ -157,3 +157,13 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine)](https://github.com/dnofulla/crownflame-2d-game-engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=battleship-game)](https://github.com/dnofulla/battleship-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-react)](https://github.com/dnofulla/lexai-service-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-flask)](https://github.com/dnofulla/lexai-service-flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-android)](https://github.com/dnofulla/assist-go-android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-server)](https://github.com/dnofulla/assist-go-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-assembler)](https://github.com/dnofulla/sia-assembler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-virtual-machine)](https://github.com/dnofulla/sia-virtual-machine)
