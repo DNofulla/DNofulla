@@ -57,5 +57,9 @@
 <a href="https://github.com/dnofulla">
  <img src="https://github-readme-stats.vercel.app/api?username=DNofulla&count_private=true&theme=radical&border_color=5ECF76" alt="Daniel Nofulla's GitHub Stats" />
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=10&theme=radical&border_color=5ECF76&hide=AngelScript, Racket, Shell" alt="Daniel Nofulla's Language Stats" /> -->
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)
 </a>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
