@@ -2,6 +2,7 @@
 
 ### I'm Daniel Nofulla 😄
 
+- I am 23 years old!
 - 📫 How to reach me: 
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
 - ⚡ Fun facts: 
@@ -13,6 +14,12 @@
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png" width="20px" /> French (Intermediate)
     - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/800px-Flag_of_Japan.svg.png" width="20px" /> Japanese (Beginner II)
     - <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" width="20px" /> Korean (Beginner I)
+  - 🥋🥊 I do Martial Arts:
+    - Muay Thai
+    - Kickboxing
+    - Mixed Martial Arts (MMA)
+    - Judo
+    - Taekwondo (Retired) (Black Belt I)
 
 
 ### Languages
