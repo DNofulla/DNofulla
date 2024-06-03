@@ -20,6 +20,11 @@
     - Mixed Martial Arts (MMA)
     - Judo
     - Taekwondo (Retired) (Black Belt I)
+- I am interested in:
+  -  🤖 Artificial Intelligence & Machine Learning
+  -  ⚛️ Quantum Computing & Advanced Mathematics
+  -  🖥️ Systems Engineering & Development
+  -  🎮 Custom Game Engine Development
 
 
 ### Languages
