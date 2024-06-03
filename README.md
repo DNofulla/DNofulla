@@ -125,19 +125,21 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ### 📊 GitHub Stats:
-<!--
+
 <p align="center">
 <a href="https://github.com/dnofulla">
- <img src="https://github-readme-stats.vercel.app/api?username=DNofulla&count_private=true&theme=radical&border_color=5ECF76" alt="Daniel Nofulla's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNofulla&layout=compact&count_private=true&langs_count=10&theme=radical&border_color=5ECF76&hide=AngelScript, Racket, Shell" alt="Daniel Nofulla's Language Stats" /> 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)
+ <img src="https://github-readme-stats.vercel.app/api?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Daniel Nofulla's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Daniel Nofulla's Language Stats" /> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
+
 </a>
 </p>
--->
+
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)<br/>
-
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
