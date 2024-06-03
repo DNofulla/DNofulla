@@ -155,10 +155,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)<br/>
 -->
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Pinned Repositories
+### Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine)](https://github.com/dnofulla/crownflame-2d-game-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=battleship-game)](https://github.com/dnofulla/battleship-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-react)](https://github.com/dnofulla/lexai-service-react)
