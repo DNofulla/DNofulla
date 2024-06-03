@@ -140,11 +140,11 @@
 
 <p align="center">
 <a href="https://github.com/dnofulla">
- <img src="https://github-readme-stats.vercel.app/api?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Daniel Nofulla's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=dnofulla&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="Daniel Nofulla's GitHub Stats" />
   <br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=github_dark&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
   <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket" alt="Daniel Nofulla's Language Stats" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket" alt="Daniel Nofulla's Language Stats" /> 
 
 </a>
 </p>
@@ -159,11 +159,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine&theme=react)](https://github.com/dnofulla/crownflame-2d-game-engine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=battleship-game&theme=react)](https://github.com/dnofulla/battleship-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-react&theme=react)](https://github.com/dnofulla/lexai-service-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-flask&theme=react)](https://github.com/dnofulla/lexai-service-flask)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-android&theme=react)](https://github.com/dnofulla/assist-go-android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-server&theme=react)](https://github.com/dnofulla/assist-go-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-assembler&theme=react)](https://github.com/dnofulla/sia-assembler)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-virtual-machine&theme=react)](https://github.com/dnofulla/sia-virtual-machine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine&theme=github_dark)](https://github.com/dnofulla/crownflame-2d-game-engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=battleship-game&theme=github_dark)](https://github.com/dnofulla/battleship-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-react&theme=github_dark)](https://github.com/dnofulla/lexai-service-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-flask&theme=github_dark)](https://github.com/dnofulla/lexai-service-flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-android&theme=github_dark)](https://github.com/dnofulla/assist-go-android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-server&theme=github_dark)](https://github.com/dnofulla/assist-go-server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-assembler&theme=github_dark)](https://github.com/dnofulla/sia-assembler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-virtual-machine&theme=github_dark)](https://github.com/dnofulla/sia-virtual-machine)
