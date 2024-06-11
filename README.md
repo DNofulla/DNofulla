@@ -139,14 +139,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-<a href="https://github.com/dnofulla">
  <img src="https://github-readme-stats.vercel.app/api?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Daniel Nofulla's GitHub Stats" />
   <br />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=transparent&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
   <br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket" alt="Daniel Nofulla's Language Stats" /> 
-
-</a>
 </p>
 
 <!--
