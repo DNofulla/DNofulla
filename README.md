@@ -158,8 +158,8 @@
 ### Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine&theme=transparent)](https://github.com/dnofulla/crownflame-2d-game-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=battleship-game&theme=transparent)](https://github.com/dnofulla/battleship-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-react&theme=transparent)](https://github.com/dnofulla/lexai-service-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=lexai-service-flask&theme=transparent)](https://github.com/dnofulla/lexai-service-flask)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=marketcove-e-commerce-ui&theme=transparent)](https://github.com/dnofulla/marketcove-e-commerce-ui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=marketcove-e-commerce-backend&theme=transparent)](https://github.com/dnofulla/marketcove-e-commerce-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-android&theme=transparent)](https://github.com/dnofulla/assist-go-android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=assist-go-server&theme=transparent)](https://github.com/dnofulla/assist-go-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=sia-assembler&theme=transparent)](https://github.com/dnofulla/sia-assembler)
