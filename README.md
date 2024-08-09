@@ -2,7 +2,7 @@
 
 ### I'm Daniel Nofulla 😄
 
-- I am 23 years old!
+- I am 24 years old!
 - 📫 How to reach me: 
   - Email: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
 - ⚡ Fun facts: 
