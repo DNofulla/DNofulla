@@ -5,7 +5,7 @@
 - I am 24 years old!
 - 📫 How to reach me: 
   - Outlook: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
-  - Gmail: <a href="mailto:danielnofulla@gmail.com">dnofulla@outlook.com</a>
+  - Gmail: <a href="mailto:danielnofulla@gmail.com">danielnofulla@gmail.com</a>
 - ⚡ Fun facts: 
   - I speak 7 languages! 
     - <img src="https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg" width="20px" /> Albanian (Native Speaker)
