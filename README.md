@@ -144,7 +144,7 @@
   <br />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=transparent&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
   <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket,html,typescript,css,shell,dockerfile,cmake" alt="Daniel Nofulla's Language Stats" /> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket,html,css" alt="Daniel Nofulla's Language Stats" /> 
 </p>
 
 <!--
