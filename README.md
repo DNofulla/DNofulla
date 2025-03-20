@@ -157,6 +157,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=transformer-neural-model&theme=transparent)](https://github.com/dnofulla/transformer-neural-model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=kmeans-cuda-centroids&theme=transparent)](https://github.com/dnofulla/kmeans-cuda-centroids)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=marketcove-e-commerce-ui&theme=transparent)](https://github.com/dnofulla/marketcove-e-commerce-ui)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=marketcove-e-commerce-backend&theme=transparent)](https://github.com/dnofulla/marketcove-e-commerce-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=dnofulla&repo=crownflame-2d-game-engine&theme=transparent)](https://github.com/dnofulla/crownflame-2d-game-engine)
