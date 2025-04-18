@@ -153,6 +153,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)<br/>
 -->
 
+[![roadmap.sh](https://roadmap.sh/card/wide/67f88f38903b9595d41d1cb2?variant=dark)](https://roadmap.sh)
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
