@@ -145,6 +145,8 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=transparent&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
   <br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=angelscript,racket,html,css" alt="Daniel Nofulla's Language Stats" /> 
+  <br />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f88f38903b9595d41d1cb2?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
 </p>
 
 <!--
@@ -152,8 +154,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=react&hide_border=false)<br/>
 -->
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67f88f38903b9595d41d1cb2?variant=dark)](https://roadmap.sh)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
