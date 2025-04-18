@@ -154,8 +154,9 @@
 -->
 
 ### Roadmap.sh Stats
+<p align="center">
 [![roadmap.sh](https://roadmap.sh/card/tall/67f88f38903b9595d41d1cb2?variant=dark)](https://roadmap.sh)
-
+</p>
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dnofulla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
