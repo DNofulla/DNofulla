@@ -141,7 +141,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true" alt="Daniel Nofulla's GitHub Stats" />
   <br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=transparent&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
+ <a href="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&theme=transparent&hide_border=false" alt="Daniel Nofulla's Extra Stats" /> 
   <br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&size_weight=0.75&count_weight=0.25&layout=compact&langs_count=8&hide=angelscript,racket,html,css&exclude_repo=professional-website,visa-donate-api-server,visa-donate-merchant-web,portfolio-website,first-personal-website,calculator-app,nba-fantasy-simulator-frontend,nba-fantasy-simulator-backend,ICSI-435-TeamProject,Scuffed-PCPartPicker-Idea" alt="Daniel Nofulla's Language Stats" /> 
 </p>
