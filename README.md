@@ -1,6 +1,4 @@
-<h3 align="center">Hello there! Welcome to my Page! 👋</h3>
-
-### I'm Daniel Nofulla 😄
+<h3 align="center">Hello there! Welcome to my Page! 👋 I'm Daniel Nofulla 😄</h3>
 
 - I am 24 years old!
 - 📫 How to reach me: 
