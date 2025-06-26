@@ -1,7 +1,7 @@
 <h3 align="center">Hello there! Welcome to my Page! 👋 I'm Daniel Nofulla 😄</h3>
 
 ### Here is a bit about me!
-- I am 24 years old!
+- I am 25 years old!
 - 📫 How to reach me: 
   - Outlook: <a href="mailto:dnofulla@outlook.com">dnofulla@outlook.com</a>
   - Gmail: <a href="mailto:danielnofulla@gmail.com">danielnofulla@gmail.com</a>
