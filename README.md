@@ -146,6 +146,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&size_weight=0.75&count_weight=0.25&layout=compact&langs_count=8&hide=angelscript,racket,html,css&exclude_repo=professional-website,visa-donate-api-server,visa-donate-merchant-web,portfolio-website,first-personal-website,calculator-app,nba-fantasy-simulator-frontend,nba-fantasy-simulator-backend,ICSI-435-TeamProject,Scuffed-PCPartPicker-Idea" alt="Daniel Nofulla's Language Stats" /> 
 </p>
 
+
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dnofulla&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
