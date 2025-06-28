@@ -16,7 +16,6 @@
     - <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" width="20px" /> Korean (Beginner I)
   - 🥋🥊 I do Martial Arts:
     - Muay Thai
-    - Kickboxing
     - Mixed Martial Arts (MMA)
     - Judo
     - Taekwondo (Retired) (Black Belt I)
