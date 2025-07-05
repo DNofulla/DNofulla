@@ -24,7 +24,7 @@
   -  🖥️ Systems Engineering & Development
   -  🎮 Custom Game Engine Development
   -  ⚛️ Quantum Computing & Advanced Mathematics
- 
+
 
 ### Languages
 
