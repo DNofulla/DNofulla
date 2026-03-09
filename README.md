@@ -175,7 +175,7 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 ### Projects
 
 <table width="100%">
-<tr><th colspan="2">Applications</th></tr>
+<tr><th colspan="2"><img src="spacer.svg" height="1" /><br>Applications</th></tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/dnofulla/marketcove-e-commerce-ui"><b>marketcove-e-commerce-ui</b></a><br>
@@ -207,7 +207,7 @@ Accessibility-focused Android app<br>
 </table>
 
 <table width="100%">
-<tr><th colspan="2">AI/ML & Systems</th></tr>
+<tr><th colspan="2"><img src="spacer.svg" height="1" /><br>AI/ML & Systems</th></tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/dnofulla/transformer-neural-model"><b>transformer-neural-model</b></a><br>
