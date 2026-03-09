@@ -253,15 +253,15 @@ Command-line Battleship game<br>
 </table>
 
 <details>
-<summary><img src="https://img.shields.io/badge/It's_Over_9000!!!_·_Secret_Projects-FF4500?style=for-the-badge" alt="Secret Projects" /></summary>
+<summary><b>More projects on the way...</b></summary>
 <br>
 <table width="100%">
 <tr><td>
 <img src="spacer.svg" height="1" />
 
-New projects are currently being forged in the Hyperbolic Time Chamber. Check back soon...
+Currently exploring some new interests and building a few things. Stay tuned.
 
-<img src="https://img.shields.io/badge/Status-Training_in_Progress-FF6600?style=flat-square" alt="In Progress" />
+<img src="https://img.shields.io/badge/Status-In_Progress-FF6600?style=flat-square" alt="In Progress" />
 
 </td></tr>
 </table>
