@@ -28,7 +28,9 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 <tr><td>
 <img src="spacer.svg" height="1" />
 
-#### Disney Streaming · Senior Software Engineer
+#### Disney Streaming · CGI Web Experiences
+
+**Senior Software Engineer**
 
 <img src="https://img.shields.io/badge/Aug_2025_–_Present-FF6600?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/Top_10%25_Contributor-FFD700?style=flat-square" alt="Top 10% Contributor" />
 
