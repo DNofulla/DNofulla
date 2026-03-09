@@ -24,11 +24,51 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 
 ### Experience
 
-| Company | Role | Duration |
-|---------|------|----------|
-| **Disney Streaming** | Senior Software Engineer | Aug 2025 – Present |
-| **Visa** | Senior Software Engineer | Jul 2024 – Jul 2025 |
-| **Visa** | Software Engineer | Jun 2022 – Jun 2024 |
+<table>
+<tr><td>
+
+#### Disney Streaming · Senior Software Engineer
+
+<img src="https://img.shields.io/badge/Aug_2025_–_Present-FF6600?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/Top_10%25_Contributor-FFD700?style=flat-square" alt="Top 10% Contributor" />
+
+- Built and maintained web experiences powering **Disney+**, **Hulu**, and **ESPN**
+- Developed unified packages and custom CMS integrations shared across streaming brands
+- Drove SEO optimization and analytics instrumentation with comprehensive E2E test coverage
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+#### Visa · Enterprise AI Platform Suite
+
+<img src="https://img.shields.io/badge/3+_Years_·_Jun_2022_–_Jul_2025-1A1F71?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/%231_on_Team-FFD700?style=flat-square" alt="#1 on Team" /> <img src="https://img.shields.io/badge/Top_5%25_Company--wide-FFD700?style=flat-square" alt="Top 5% Company-wide" />
+
+**Senior Software Engineer** · `Jul 2024 – Jul 2025`
+
+- Architected a **Synthetic Data Generator** using GenAI to produce training data for internal AI models, generating 250K+ parameters for a Multi-class Classifier
+- Built a **Multi-class Classifier SVM** that reduced GenAI chatbot topic selection latency from 5–10s to **<150ms**
+- Engineered the **Admin Dashboard** for managing all of Visa's Generative AI applications and configurations
+- Led cross-platform mobile replication of the team's homepage on **iOS and Android** with modular architecture
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+**Software Engineer** · `Jun 2022 – Jun 2024`
+
+- Pioneered **GPT-powered internal tool applications** adopted company-wide, built with React, Angular, TypeScript, and FastAPI
+- Built a **Project Setup Automation Framework** that eliminated 30 days of manual setup time per project
+- Developed a **Data Validation Pipeline Orchestrator** serving 10+ pipelines processing millions of records
+- Led a **Secure Data Archival System** for 3+ deprecated enterprise applications
+
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+</td></tr>
+</table>
 
 <img src="dragonball_divider.svg" />
 
