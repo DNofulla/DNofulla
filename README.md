@@ -26,7 +26,7 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 
 <table width="100%">
 <tr><td>
-<img src="spacer.svg" width="100%" height="1" />
+<img src="spacer.svg" width="100vw" height="1" />
 
 #### Disney Streaming · Senior Software Engineer
 
