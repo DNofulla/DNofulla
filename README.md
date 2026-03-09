@@ -75,49 +75,81 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 ### Projects
 
 <table>
-<tr><td>
-
-#### Applications
-
-<a href="https://github.com/dnofulla/marketcove-e-commerce-ui"><b>marketcove-e-commerce-ui</b></a> · E-commerce platform frontend <img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" /><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-
-<a href="https://github.com/dnofulla/marketcove-e-commerce-backend"><b>marketcove-e-commerce-backend</b></a> · E-commerce REST API <img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" /><br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-
-<a href="https://github.com/dnofulla/assist-go-server"><b>assist-go-server</b></a> · Backend server for Assist Go <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-
-<a href="https://github.com/dnofulla/assist-go-android"><b>assist-go-android</b></a> · Accessibility-focused Android app <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-
-</td></tr>
+<tr><th colspan="2">Applications</th></tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/dnofulla/marketcove-e-commerce-ui"><b>marketcove-e-commerce-ui</b></a><br>
+E-commerce platform frontend<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/dnofulla/marketcove-e-commerce-backend"><b>marketcove-e-commerce-backend</b></a><br>
+E-commerce REST API<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/dnofulla/assist-go-server"><b>assist-go-server</b></a><br>
+Backend server for Assist Go<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+<td valign="top">
+<a href="https://github.com/dnofulla/assist-go-android"><b>assist-go-android</b></a><br>
+Accessibility-focused Android app<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+</tr>
 </table>
 
 <table>
-<tr><td>
-
-#### AI/ML & Systems
-
-<a href="https://github.com/dnofulla/transformer-neural-model"><b>transformer-neural-model</b></a> · Transformer architecture from scratch <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<a href="https://github.com/dnofulla/kmeans-cuda-centroids"><b>kmeans-cuda-centroids</b></a> · GPU-accelerated K-Means clustering <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-<a href="https://github.com/dnofulla/nodejs-cpp-image-processing-pipeline"><b>nodejs-cpp-image-processing-pipeline</b></a> · Parallel image processing pipeline <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-
-<a href="https://github.com/dnofulla/sia-assembler"><b>sia-assembler</b></a> · <a href="https://github.com/dnofulla/sia-virtual-machine"><b>sia-virtual-machine</b></a> · Custom assembler + VM for the SIA instruction set <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-
-<a href="https://github.com/dnofulla/crownflame-2d-game-engine"><b>crownflame-2d-game-engine</b></a> · Custom 2D game engine <img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" /><br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-
-<a href="https://github.com/dnofulla/battleship-game"><b>battleship-game</b></a> · Command-line Battleship game <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" /><br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-
-</td></tr>
+<tr><th colspan="2">AI/ML & Systems</th></tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/dnofulla/transformer-neural-model"><b>transformer-neural-model</b></a><br>
+Transformer architecture from scratch<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/dnofulla/kmeans-cuda-centroids"><b>kmeans-cuda-centroids</b></a><br>
+GPU-accelerated K-Means clustering<br>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/dnofulla/nodejs-cpp-image-processing-pipeline"><b>nodejs-cpp-image-processing-pipeline</b></a><br>
+Parallel image processing pipeline<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+<td valign="top">
+<a href="https://github.com/dnofulla/sia-assembler"><b>sia-assembler</b></a> · <a href="https://github.com/dnofulla/sia-virtual-machine"><b>sia-virtual-machine</b></a><br>
+Custom assembler + VM for the SIA instruction set<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/dnofulla/crownflame-2d-game-engine"><b>crownflame-2d-game-engine</b></a><br>
+Custom 2D game engine<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Archived-d9534f?style=flat-square" alt="Archived" />
+</td>
+<td valign="top">
+<a href="https://github.com/dnofulla/battleship-game"><b>battleship-game</b></a><br>
+Command-line Battleship game<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" alt="Completed" />
+</td>
+</tr>
 </table>
 
 <details>
