@@ -1,5 +1,3 @@
-<img src="goku_clouds.gif" width="100%" alt="Goku on Nimbus" />
-
 <div align="center">
 <table>
 <tr>
