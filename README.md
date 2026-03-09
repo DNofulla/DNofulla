@@ -30,9 +30,9 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 
 #### Disney Streaming · CGI Web Experiences
 
-**Senior Software Engineer**
-
 <img src="https://img.shields.io/badge/Aug_2025_–_Present-FF6600?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/Top_10%25_Contributor-FFD700?style=flat-square" alt="Top 10% Contributor" />
+
+**Senior Software Engineer** · `August 2025 – Present`
 
 - Built and maintained web experiences powering **Disney+**, **Hulu**, and **ESPN**
 - Developed unified packages and custom CMS integrations shared across streaming brands
@@ -46,7 +46,7 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 <table width="100%">
 <tr><td>
 
-#### Visa · Enterprise AI Platform Suite
+#### Visa · Enterprise AI Platform Suite & Data Engineering
 
 <img src="https://img.shields.io/badge/3+_Years_·_Jun_2022_–_Jul_2025-1A1F71?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/%231_on_Team-FFD700?style=flat-square" alt="#1 on Team" /> <img src="https://img.shields.io/badge/Top_5%25_Company--wide-FFD700?style=flat-square" alt="Top 5% Company-wide" />
 
