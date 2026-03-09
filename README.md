@@ -26,6 +26,7 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 
 <table width="100%">
 <tr><td>
+<img src="spacer.svg" width="100%" height="1" />
 
 #### Disney Streaming · Senior Software Engineer
 
@@ -177,6 +178,7 @@ I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I spe
 <tr><th colspan="2">Applications</th></tr>
 <tr>
 <td width="50%" valign="top">
+<img src="spacer.svg" width="100%" height="1" />
 <a href="https://github.com/dnofulla/marketcove-e-commerce-ui"><b>marketcove-e-commerce-ui</b></a><br>
 E-commerce platform frontend<br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br>
@@ -209,6 +211,7 @@ Accessibility-focused Android app<br>
 <tr><th colspan="2">AI/ML & Systems</th></tr>
 <tr>
 <td width="50%" valign="top">
+<img src="spacer.svg" width="100%" height="1" />
 <a href="https://github.com/dnofulla/transformer-neural-model"><b>transformer-neural-model</b></a><br>
 Transformer architecture from scratch<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
@@ -256,6 +259,7 @@ Command-line Battleship game<br>
 <br>
 <table width="100%">
 <tr><td>
+<img src="spacer.svg" width="100%" height="1" />
 
 New projects are currently being forged in the Hyperbolic Time Chamber. Check back soon...
 
