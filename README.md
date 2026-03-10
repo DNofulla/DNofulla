@@ -18,7 +18,7 @@
 
 Senior software engineer specializing in full-stack web development, AI integration, and system design. Architected an enterprise AI platform at Visa and currently focused on agentic AI workflows alongside building unified packages and web experiences at Disney Streaming. Also interested in systems programming, hardware programming, and embedded systems.
 
-I train martial arts — Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I speak seven languages: Albanian, Greek, English, German, French, Japanese, and Korean.
+I train martial arts - Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I speak seven languages: Albanian, Greek, English, German, French, Japanese, and Korean.
 
 <img src="dragonball_divider.svg" />
 
