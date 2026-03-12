@@ -261,7 +261,7 @@ Command-line Battleship game<br>
 <tr><td>
 <img src="spacer.svg" height="1" />
 
-Currently exploring some new interests and building a few things. Stay tuned.
+Currently exploring some new interests and building a few things, particularly related to hardware. Stay tuned.
 
 <img src="https://img.shields.io/badge/Status-In_Progress-FF6600?style=flat-square" alt="In Progress" />
 
