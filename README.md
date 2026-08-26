@@ -48,7 +48,7 @@ I train martial arts - Muay Thai, MMA, Judo, and Taekwondo (Black Belt). I speak
 
 #### Visa · Enterprise AI Platform Suite & Data Engineering
 
-<img src="https://img.shields.io/badge/3+_Years_·_Jun_2022_–_Jul_2025-1A1F71?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/%231_on_Team-FFD700?style=flat-square" alt="#1 Performer on the Team" /> <img src="https://img.shields.io/badge/Top_5%25_Company--wide-FFD700?style=flat-square" alt="Top 5% Company-wide" />
+<img src="https://img.shields.io/badge/3+_Years_·_Jun_2022_–_Jul_2025-1A1F71?style=flat-square" alt="Duration" /> <img src="https://img.shields.io/badge/%231_Performer_on_the_Team-FFD700?style=flat-square" alt="#1 Performer on the Team" /> <img src="https://img.shields.io/badge/Top_5%25_Company--wide-FFD700?style=flat-square" alt="Top 5% Company-wide" />
 
 **Senior Software Engineer** · `Jul 2024 – Jul 2025`
 
