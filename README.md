@@ -1,7 +1,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="gohan_laptop.jpg" width="200" alt="Gohan Coding" /></td>
+<td align="center"><img src="goku-coffee-chilling.jpg" width="200" alt="Gohan Coding" /></td>
 <td align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Daniel+Nofulla;Senior+Software+Engineer" alt="Typing SVG" /><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnofulla&hide_border=true&background=0D1117&ring=FF6600&fire=FF4500&currStreakLabel=FF6600&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" /><br><br>
